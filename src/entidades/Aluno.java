@@ -3,7 +3,6 @@ package entidades;
 import java.util.Date;
 
 public class Aluno {
-
     private Integer matricula;
     private String nome;
     private String sobrenome;
